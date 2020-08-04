@@ -1,0 +1,13 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "LinkedList implementation",
+  "main": "LinkedListTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "alernerdev@gmail.com",
+  "license": "ISC",
+  "type": "module"
+ 
+}
